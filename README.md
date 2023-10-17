@@ -5,11 +5,12 @@ Extension of Gerber correlation statistic [(Gerber et al., 2022)](https://www.pm
 
 ## What's included:
 
-### jupyter notebooks
+### Code files
 Contains the code for running backtests.
 * gerber_backtest_template: Historical covariance, 1-threshold and 2-threshold Gerber covariance methods.
 * EWMA_1t_gerber_backtest_template: 1-threshold Gerber covariance and 1-threshold EWMA Gerber covariance methods.
 * EWMA_2t_gerber_backtest_template: 2-threshold Gerber covariance and 2-threshold EWMA Gerber covariance methods.
+* gerber_utils.py: Contains helper functions for visualization and backtesting.
 
 ### data/
 Contains relevant pre-processed asset returns datasets for the asset universes discussed in the thesis.
