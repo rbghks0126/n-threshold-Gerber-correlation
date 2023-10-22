@@ -18,3 +18,7 @@ Contains relevant pre-processed asset returns datasets for the asset universes d
 - gerber2021_9assets.parquet: Returns of 9 assets from Gerber's paper (with 2 replaced as mentioned in thesis).
 - snp_22stocks.parquet: Returns of 22 stocks from SP500 with 2 stocks from each of the 11 industry sectors.
 - snp_55stocks.parquet: Returns of 55 stocks from SP500 with 5 stocks from each of the 11 industry sectors.
+
+
+### Thesis
+- Thesis.pdf is the submitted thesis.
